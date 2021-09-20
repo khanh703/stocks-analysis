@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Operating system cache files
+~*.xlsm
+
 # C extensions
 *.so
 
