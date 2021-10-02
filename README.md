@@ -1,7 +1,7 @@
 # Stocks Analysis Refactor
 
 ## Purpose
-The original pre-refactored code may have worked exactly as expected and easy to read for many. The original code may be sufficient for small sets of data, but will encounter perfomance-wise when faced with big datasets. Refactor the stocks analysis workbook prepared for Steve so that the module runs efficiently with large datasets.
+The original pre-refactored code may have worked exactly as expected and easy to read for many and sufficient for small sets of data, but may encounter perfomance issues when faced with big datasets. Refactor the stocks analysis workbook prepared for Steve so that the module runs efficiently with large datasets.
 
 ## Challenge
 Iterate through all rows and perform all neccessary calculations using fewest steps to improve performance and execution time.
