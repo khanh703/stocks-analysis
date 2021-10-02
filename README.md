@@ -19,4 +19,10 @@ Instead of running a loop to calculate each value ( TickerVolume, StartingPrices
 #### 2018 Analysis performance
 ![VBA_Challenge_2018](Resources/VBA_Challenge_2018.png)
 
-#### [Download Stocks_Analysis XLSM](VBA_Challenge.xlsm)
+## Download
+#### [Stocks_Analysis XLSM](VBA_Challenge.xlsm)
+
+- Open up Stocks Analysis file
+- Activate tab "All Stocks Analysis"
+- Click button "Run Analysis for all Stocks"
+- Enter year 2017 or 2018
